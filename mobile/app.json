@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RunEricRun",
+    "slug": "runericrun",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#f6d18b",
+    "ios": { "supportsTablet": true }
+  }
+}
